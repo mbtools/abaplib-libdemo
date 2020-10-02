@@ -1,6 +1,5 @@
 CLASS /libdemo/cl_libdemo DEFINITION
   PUBLIC
-  FINAL
   CREATE PUBLIC .
 
   PUBLIC SECTION.
