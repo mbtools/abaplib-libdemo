@@ -10,7 +10,7 @@ CLASS /libdemo/cl_libdemo DEFINITION
   PROTECTED SECTION.
   PRIVATE SECTION.
 
-    CONSTANTS c_demo TYPE string VALUE 'My First Library - v3.0' ##NO_TEXT.
+    CONSTANTS c_demo TYPE string VALUE 'My First Library - v2' ##NO_TEXT.
 ENDCLASS.
 
 
