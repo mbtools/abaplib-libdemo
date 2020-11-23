@@ -5,17 +5,16 @@
    <MASTER_LANGUAGE>E</MASTER_LANGUAGE>
    <STARTING_FOLDER>/src/</STARTING_FOLDER>
    <FOLDER_LOGIC>PREFIX</FOLDER_LOGIC>
-   <IGNORE>
-    <item>/.gitignore</item>
-    <item>/LICENSE</item>
-    <item>/README.md</item>
-    <item>/package.json</item>
-    <item>/.travis.yml</item>
-    <item>/.gitlab-ci.yml</item>
-    <item>/abaplint.json</item>
-    <item>/azure-pipelines.yml</item>
-    <item>/.devcontainer.json</item>
-   </IGNORE>
+   <PACKAGING>
+    <NAME>mbtools/abaplib-libdemo</NAME>
+    <VERSION>1.0.0</VERSION>
+    <SEM_VERSION>
+     <MAJOR>1</MAJOR>
+    </SEM_VERSION>
+    <DESCRIPTION>ABAP Library Demo - Library Part</DESCRIPTION>
+    <GIT_URL>https://github.com/mbtools/abaplib-libdemo</GIT_URL>
+    <TARGET_PACKAGE>$LIBDEMO</TARGET_PACKAGE>
+   </PACKAGING>
   </DATA>
  </asx:values>
 </asx:abap>
