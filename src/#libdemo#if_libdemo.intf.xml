@@ -3,7 +3,7 @@
  <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
   <asx:values>
    <VSEOINTERF>
-    <CLSNAME>/LIBDEMO/IF_LIBDEMO_</CLSNAME>
+    <CLSNAME>/LIBDEMO/IF_LIBDEMO</CLSNAME>
     <LANGU>E</LANGU>
     <DESCRIPT>ABAP Library Demo</DESCRIPT>
     <EXPOSURE>2</EXPOSURE>
